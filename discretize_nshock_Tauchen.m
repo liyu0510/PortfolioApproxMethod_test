@@ -1,0 +1,1 @@
+function [a_grid,P]=discretize_nshock_Tauchen(mew,rho,sigma,znum,Tauchen_q, tauchenoptions)
